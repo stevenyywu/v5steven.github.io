@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: v5steven Blog
+SEOTitle: 老吴的博客 | Hux Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+email: stevenyywu@gmail.com
+description: "这里是 @stevenyywu 的个人博客，与你一起探索更大的世界 | 要做一个有格局的酒店人"
+keyword: "吴永验, stevenyywu, 老吴, 酒店, hotel, 酒店运营, 老吴的博客, v5steven Blog, 博客, 个人网站, 互联网, "
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
